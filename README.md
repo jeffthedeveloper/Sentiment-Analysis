@@ -40,12 +40,15 @@ python main.py "O produto superou minhas expectativas, é de ótima qualidade e 
 O script deve retornar a classificação do sentimento do texto de entrada.
 Estrutura do Projeto
 A estrutura do projeto geralmente inclui os seguintes arquivos e diretórios:
+
+```plaintext
 /Sentiment-Analysis
 ├── main.py             # Script principal para executar a análise de sentimento
 ├── requirements.txt    # Lista de dependências do projeto
 ├── model/              # Diretório para armazenar o modelo treinado (e.g., model.pkl, model.h5)
 ├── data/               # Diretório para armazenar os conjuntos de dados
 └── README.md           # Documentação do projeto
+```
 
 Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir, por favor, siga os seguintes passos:
